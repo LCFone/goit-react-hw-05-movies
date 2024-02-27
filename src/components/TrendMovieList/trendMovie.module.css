@@ -1,0 +1,14 @@
+.myTrendMovieList{
+    list-style: none;
+    }
+    
+    .myTrendMovieLink {
+    text-decoration: none;
+    color: rgb(141, 16, 87)
+    }
+    
+    .myTrendMovieLink:hover,
+    .myTrendMovieLink:focus
+    {
+    color: rgb(253, 136, 3);
+    }
